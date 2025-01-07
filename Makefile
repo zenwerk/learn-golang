@@ -1,4 +1,4 @@
 .PHONY: install_sqlc
 
 install_sqlc:
-	go install github.com/kyleconroy/sqlc/cmd/sqlc@latest
+	go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest
