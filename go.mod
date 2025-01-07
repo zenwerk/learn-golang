@@ -3,6 +3,11 @@ module learn-golang
 go 1.23
 
 require (
+	github.com/mattn/go-sqlite3 v1.14.24
+	modernc.org/tk9.0 v0.56.3
+)
+
+require (
 	github.com/adrg/xdg v0.5.0 // indirect
 	github.com/disintegration/imaging v1.6.2 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
@@ -45,6 +50,5 @@ require (
 	modernc.org/sortutil v1.2.0 // indirect
 	modernc.org/strutil v1.2.0 // indirect
 	modernc.org/tcl9.0 v0.15.0 // indirect
-	modernc.org/tk9.0 v0.56.3 // indirect
 	modernc.org/token v1.1.0 // indirect
 )
