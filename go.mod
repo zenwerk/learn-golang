@@ -5,9 +5,9 @@ go 1.24.5
 require (
 	github.com/go-vgo/robotgo v0.110.8
 	github.com/gopxl/beep/v2 v2.1.1
-	github.com/mattn/go-sqlite3 v1.14.28
+	github.com/mattn/go-sqlite3 v1.14.30
 	github.com/robotn/gohook v0.42.2
-	modernc.org/tk9.0 v0.70.5
+	modernc.org/tk9.0 v1.71.0
 )
 
 require (
@@ -38,7 +38,7 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/robotn/xgb v0.10.0 // indirect
 	github.com/robotn/xgbutil v0.10.0 // indirect
-	github.com/shirou/gopsutil/v4 v4.25.6 // indirect
+	github.com/shirou/gopsutil/v4 v4.25.7 // indirect
 	github.com/tailscale/win v0.0.0-20250627215312-f4da2b8ee071 // indirect
 	github.com/tklauser/go-sysconf v0.3.15 // indirect
 	github.com/tklauser/numcpus v0.10.0 // indirect
@@ -49,28 +49,28 @@ require (
 	github.com/vcaesar/tt v0.20.1 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	golang.org/x/exp v0.0.0-20250718183923-645b1fa84792 // indirect
-	golang.org/x/image v0.29.0 // indirect
-	golang.org/x/net v0.42.0 // indirect
-	golang.org/x/sys v0.34.0 // indirect
-	modernc.org/fileutil v1.3.8 // indirect
+	golang.org/x/image v0.30.0 // indirect
+	golang.org/x/net v0.43.0 // indirect
+	golang.org/x/sys v0.35.0 // indirect
+	modernc.org/fileutil v1.3.15 // indirect
 	modernc.org/fsm v1.3.2 // indirect
 	modernc.org/gc/v3 v3.1.0 // indirect
 	modernc.org/knuth v0.5.5 // indirect
 	modernc.org/libX11 v0.11.20 // indirect
 	modernc.org/libXau v0.9.18 // indirect
 	modernc.org/libXdmcp v0.12.18 // indirect
-	modernc.org/libXft v0.10.23 // indirect
+	modernc.org/libXft v0.10.26 // indirect
 	modernc.org/libXrender v0.9.21 // indirect
 	modernc.org/libbsd v0.11.16 // indirect
-	modernc.org/libc v1.66.3 // indirect
-	modernc.org/libexpat v0.10.16 // indirect
+	modernc.org/libc v1.66.6 // indirect
+	modernc.org/libexpat v0.10.19 // indirect
 	modernc.org/libfontconfig v0.8.11 // indirect
-	modernc.org/libfreetype v0.9.21 // indirect
-	modernc.org/libmd v0.12.22 // indirect
-	modernc.org/libtcl9.0 v0.16.9 // indirect
+	modernc.org/libfreetype v0.9.22 // indirect
+	modernc.org/libmd v0.12.23 // indirect
+	modernc.org/libtcl9.0 v0.16.11 // indirect
 	modernc.org/libtk9.0 v0.16.8 // indirect
 	modernc.org/libxcb v0.12.4 // indirect
-	modernc.org/libz v0.16.18 // indirect
+	modernc.org/libz v0.16.19 // indirect
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.11.0 // indirect
 	modernc.org/ngrab v0.1.0 // indirect
@@ -78,6 +78,6 @@ require (
 	modernc.org/regexp v1.7.9 // indirect
 	modernc.org/sortutil v1.2.1 // indirect
 	modernc.org/strutil v1.2.1 // indirect
-	modernc.org/tcl9.0 v0.16.12 // indirect
+	modernc.org/tcl9.0 v0.16.16 // indirect
 	modernc.org/token v1.1.0 // indirect
 )
