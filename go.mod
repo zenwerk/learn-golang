@@ -5,6 +5,8 @@ go 1.24.5
 require (
 	github.com/go-vgo/robotgo v0.110.8
 	github.com/gopxl/beep/v2 v2.1.1
+	github.com/hajimehoshi/ebiten/v2 v2.9.4
+	github.com/lafriks/go-tiled v0.14.0
 	github.com/mattn/go-sqlite3 v1.14.30
 	github.com/robotn/gohook v0.42.2
 	modernc.org/tk9.0 v1.71.0
@@ -15,8 +17,10 @@ require (
 	github.com/dblohm7/wingoes v0.0.0-20250611174154-e3e096948d18 // indirect
 	github.com/disintegration/imaging v1.6.2 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
-	github.com/ebitengine/oto/v3 v3.3.3 // indirect
-	github.com/ebitengine/purego v0.8.4 // indirect
+	github.com/ebitengine/gomobile v0.0.0-20250923094054-ea854a63cce1 // indirect
+	github.com/ebitengine/hideconsole v1.0.0 // indirect
+	github.com/ebitengine/oto/v3 v3.4.0 // indirect
+	github.com/ebitengine/purego v0.9.0 // indirect
 	github.com/evilsocket/islazy v1.11.0 // indirect
 	github.com/gen2brain/shm v0.1.1 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
@@ -25,10 +29,7 @@ require (
 	github.com/hajimehoshi/go-mp3 v0.3.4 // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.7 // indirect
 	github.com/jezek/xgb v1.1.1 // indirect
-	github.com/kbinani/screenshot v0.0.0-20250624051815-089614a94018 // indirect
 	github.com/lufia/plan9stats v0.0.0-20250317134145-8bc96cf8fc35 // indirect
-	github.com/lxn/win v0.0.0-20210218163916-a377121e959e // indirect
-	github.com/mat/besticon/v3 v3.18.0 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/ncruces/go-strftime v0.1.9 // indirect
 	github.com/otiai10/gosseract v2.2.1+incompatible // indirect
@@ -49,9 +50,10 @@ require (
 	github.com/vcaesar/tt v0.20.1 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	golang.org/x/exp v0.0.0-20250718183923-645b1fa84792 // indirect
-	golang.org/x/image v0.30.0 // indirect
+	golang.org/x/image v0.31.0 // indirect
 	golang.org/x/net v0.43.0 // indirect
-	golang.org/x/sys v0.35.0 // indirect
+	golang.org/x/sync v0.17.0 // indirect
+	golang.org/x/sys v0.36.0 // indirect
 	modernc.org/fileutil v1.3.15 // indirect
 	modernc.org/fsm v1.3.2 // indirect
 	modernc.org/gc/v3 v3.1.0 // indirect
